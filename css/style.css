@@ -1301,6 +1301,13 @@ footer .credits a {
   border-radius: .3rem;
 }
 
+.round_circle_icon{
+  background-color: orange;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;  
+}
+
 @media (min-width: 577px) {
   .counter-box {
     margin-bottom: 1.8rem;
