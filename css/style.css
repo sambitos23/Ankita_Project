@@ -1304,8 +1304,8 @@ footer .credits a {
 .round_circle_icon{
   background-color: orange;
   border-radius: 50%;
-  width: 45px;
-  height: 45px;  
+  width: 5vh;
+  height: 5vh;  
 }
 
 @media (min-width: 577px) {
